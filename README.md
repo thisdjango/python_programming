@@ -2,6 +2,12 @@
 
 Python Programming repository for our course at AMC.
 
+Timetable
+-
+- Окт, 23 18:30-20:00 https://amc.ru/?post_type=timepad-events&p=157755 
+- Окт, 30 18:30-20:00 https://amc.ru/?post_type=timepad-events&p=157757
+- Ноя, 13 18:30-20:00
+
 ::::: Programs for course :::::
 -
 -- Anaconda Navigator --
