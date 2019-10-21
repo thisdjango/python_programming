@@ -42,6 +42,17 @@ Once you’ve confirmed that Python is correctly installed, you can proceed with
 
 Pip is now installed!
 
+How to Install Python VirtualEnv in Windows
+-
+- Run Windows Power Shell as Administrator.
+- pip install virtualenv.
+- pip install virtualenvwrapper-win
+- mkvirtualenv "C:\\\Users\\\user\\\Desktop"
+- cd Test.
+- Set-ExecutionPolicy AllSigned | Press Y and Enter.
+- Set-ExecutionPolicy RemoteSigned | Press Y and Enter.
+- .\Scripts\activate.
+
 First lecture's presentation:
 -
 https://1drv.ms/p/s!AkZrssLOQ6OrkAGLpcQ4Z8U0dc-c
