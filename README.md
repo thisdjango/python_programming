@@ -26,6 +26,21 @@ PyCharm Community Edition
 
 - for Linux: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux&code=PCC
 
+Installing Pip
+-
+
+Once you’ve confirmed that Python is correctly installed, you can proceed with installing Pip.
+
+- Download get-pip.py to a folder on your computer.
+
+- Open a command prompt and navigate to the folder containing get-pip.py.
+
+- Run the following command:
+
+- python get-pip.py
+
+Pip is now installed!
+
 First lecture's presentation:
 -
 https://1drv.ms/p/s!AkZrssLOQ6OrkAGLpcQ4Z8U0dc-c
