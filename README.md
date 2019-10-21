@@ -21,6 +21,7 @@ Timetable
 PyCharm Community Edition
 -
 - for Windows 64-bit: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+- for Windows 32-bit(old version): https://download.jetbrains.com/python/pycharm-community-5.0.6.exe
 
 - for macOS: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC
 
