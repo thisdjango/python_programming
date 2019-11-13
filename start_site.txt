@@ -8,4 +8,4 @@
 - django-admin startproject <lolkek>
 - cd <lolkek>
 - django-admin startapp <my_app>
-- см. photo1
+- см. Снимок экрана 2019-11-13 в 19.04.20.png
