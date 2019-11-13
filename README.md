@@ -2,6 +2,8 @@
 
 Python Programming repository for our course at AMC.
 
+https://tutorial.djangogirls.org/ru/
+-
 Timetable
 -
 - Окт, 23 18:30-20:00 https://amc.ru/?post_type=timepad-events&p=157755 
