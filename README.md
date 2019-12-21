@@ -40,21 +40,22 @@ Once you’ve confirmed that Python is correctly installed, you can proceed with
 
 - Run the following command:
 
-- python get-pip.py
+```python get-pip.py```
 
 Pip is now installed!
 
 How to Install Python VirtualEnv in Windows
 -
 - Run Windows Power Shell as Administrator.
-- pip install virtualenv.
-- pip install virtualenvwrapper-win
-- mkvirtualenv "C:\\\Users\\\user\\\Desktop"
-- cd Test.
-- Set-ExecutionPolicy AllSigned | Press Y and Enter.
-- Set-ExecutionPolicy RemoteSigned | Press Y and Enter.
-- .\Scripts\activate.
-
+```
+pip install virtualenv.
+pip install virtualenvwrapper-win
+mkvirtualenv "C:\Users\user\Desktop"
+cd Test.
+Set-ExecutionPolicy AllSigned | Press Y and Enter.
+Set-ExecutionPolicy RemoteSigned | Press Y and Enter.
+.\Scripts\activate.
+```
 First lecture's presentation:
 -
 https://1drv.ms/p/s!AkZrssLOQ6OrkAGLpcQ4Z8U0dc-c
@@ -72,22 +73,22 @@ Steps to make your amazing site in web
 
 1.1) open terminal(command line)
 
-1.2) make directory( mkdir <name_of_dir> )
+1.2) make directory(``` mkdir <name_of_dir> ```)
 
-1.3) go to this one( cd <name_of_dir> )
+1.3) go to this one(``` cd <name_of_dir> ```)
 
 1.4) set up virtual environment
 
-1.4.1) install virtualenv to the certain dir with name 'venv' ( apt get install virtualenv )
+1.4.1) install virtualenv to the certain dir with name 'venv' (``` apt get install virtualenv ```)
 
-1.4.2) activate this one ( source /usr/dit/to/venv/bin )
+1.4.2) activate this one (``` source /usr/dit/to/venv/bin ```)
 
 1.5) go to dir of project
 
-1.6) pip install Django
+1.6) ```pip install Django```
 
-1.7) django-admin startproject <name_of_project>
+1.7) ```django-admin startproject <name_of_project>```
 
-1.8) django-admin startapp <name_of_app>
+1.8) ```django-admin startapp <name_of_app>```
 
 Well done! You can start coding)
