@@ -10,7 +10,7 @@ Timetable
 - Окт, 30 18:30-20:00 https://amc.ru/?post_type=timepad-events&p=157757
 - Ноя, 13 18:30-20:00
 
-::::: Programs for course :::::
+::::: Apps for course :::::
 -
 -- Anaconda Navigator --
 -
